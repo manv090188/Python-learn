@@ -1,0 +1,19 @@
+#for command
+
+for item in 'Python':
+print ('item)
+#Output 
+P
+y
+t
+h
+o
+n
+
+for price in []
+#[] to define a list
+for price in [10,20,30,40]:
+for price in ['ram', 'shyam','mohit','rohit']:
+
+#to define a huge range, we use range function
+for price in range (0,100)
