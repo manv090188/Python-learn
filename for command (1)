@@ -1,0 +1,11 @@
+#for command
+
+for item in 'Python':
+print ('item')
+#Output 
+P
+y
+t
+h
+o
+n

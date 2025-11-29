@@ -1,0 +1,5 @@
+for price in []
+#[] to define a list
+for price in [10,20,30,40]:
+for price in ['ram', 'shyam','mohit','rohit']:
+
