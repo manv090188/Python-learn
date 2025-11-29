@@ -1,2 +1,0 @@
-#to define a huge range, we use range function
-for price in range (0,100)
