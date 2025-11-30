@@ -7,4 +7,4 @@ total_amount = 0
 #for loop runs listing all the prices in the prices variable one by one and total_amount which was initially zero gets added by next price.
 for list in prices:
     total_amount = total_amount + list
-print(total_amount)
+print(f"The total of the prices in the shopping cart is Rs.{total_amount}/-")
